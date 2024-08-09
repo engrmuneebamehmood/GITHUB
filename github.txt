@@ -1,4 +1,3 @@
-
 copying repo from github and pushing code 
 
 git clone url of repo
@@ -35,8 +34,31 @@ git push -u origin main
 
 
 
- 
 
-       
+git branch
+
+git checkout -b login
+
+git branch
+
+git checkout main
+
+
+
+ git branch -d login
+
+ git branch
+
+git checkout -b branchnotes
+
+ git branch
+
+ git status
+
+
+git diff main
+
+git pull origin main
+ 
 
        
