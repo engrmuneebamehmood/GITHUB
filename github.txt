@@ -1,0 +1,15 @@
+git clone url of repo
+git status
+git add .
+git commit -m "updated code"
+git push origin main
+
+
+----------------
+
+mkdir css      
+git init
+ls
+git add .
+git commit -m "A CSS Folder"
+       
