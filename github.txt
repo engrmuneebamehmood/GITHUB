@@ -1,28 +1,38 @@
+copying repo from github and pushing code 
+
+git clone url of repo
+git status
+
+git add .
+git commit -m "updated code"
+git push origin main
 
 
-git branch
+----------------
+making new repository from terminal
 
-git checkout -b login
+mkdir newrepo
+git init
 
-git branch
-
-git checkout main
-
-
-
- git branch -d login
-
- git branch
-
-git checkout -b branchnotes
-
- git branch
-
- git status
-git diff main
+git add github.txt
+git commit -m "adding my github notes"
+git status
 
 
+git remote add origin https://github.com/engrmuneebamehmood/GITHUB.git
+
+git remote -v
  
+git branch
+git branch -M main  // to rename
+git push origin main
+
+git push -u origin main 
+
+-------------------------------
+
+
+
 
        
 
